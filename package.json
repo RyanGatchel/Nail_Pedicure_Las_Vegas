@@ -1,0 +1,16 @@
+{
+  "name": "Nail_Pedicure_Las_Vegas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://rgatchel.github.io/Nail_Pedicure_Las_Vegas",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
