@@ -1,0 +1,65 @@
+body{
+	margin: 0 auto;
+}
+
+.mainSectionText container-fluid{
+	border:1px solid green;
+	padding-top:0px;
+}
+.navbar {
+	margin-bottom:0px !important;
+	width:100% !important;
+}
+
+.jumbotron{
+	border: 5px solid green;
+	padding-top:0px !important;
+	padding-bottom:0px !important;
+}
+.mainSectionColor{
+	border: 5px solid green;
+	background-color:pink;
+}
+.mainSectionText{
+	padding: 10px 10%;
+	
+}
+
+.contact{
+	border: 1px solid red !important; 
+	font-size: 20px;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/ MEDIA CHANGES */
+@media screen and (min-width: 768px) {
+	.jumbotron {
+		padding-top:0px !important;
+		padding-bottom:0px !important;
+	}
+}
